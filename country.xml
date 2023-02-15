@@ -1,0 +1,2011 @@
+<?xml version="1.0" ?>
+<changeSet author="Tathmini" context="!cuba">
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bangladesh"/>
+		<column name="ISO" value="BD"/>
+		<column name="ISO3" value="BGD"/>
+		<column name="UNICODE_FLAG" value="🇧🇩"/>
+		<column name="ID" value="0679f933-7e9b-4d35-9a76-219bf516e947"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Belgium"/>
+		<column name="ISO" value="BE"/>
+		<column name="ISO3" value="BEL"/>
+		<column name="UNICODE_FLAG" value="🇧🇪"/>
+		<column name="ID" value="7afd24c3-c3ac-416e-84b4-a561ece242ef"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Burkina Faso"/>
+		<column name="ISO" value="BF"/>
+		<column name="ISO3" value="BFA"/>
+		<column name="UNICODE_FLAG" value="🇧🇫"/>
+		<column name="ID" value="579b22dc-9bb3-4271-a252-686f5c5bcd80"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bulgaria"/>
+		<column name="ISO" value="BG"/>
+		<column name="ISO3" value="BGR"/>
+		<column name="UNICODE_FLAG" value="🇧🇬"/>
+		<column name="ID" value="f8789d4b-929d-4f23-820d-ad51bdc7c2e0"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bosnia and Herzegovina"/>
+		<column name="ISO" value="BA"/>
+		<column name="ISO3" value="BIH"/>
+		<column name="UNICODE_FLAG" value="🇧🇦"/>
+		<column name="ID" value="442e755d-f6d5-4ed1-9c88-f6762918ed40"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Barbados"/>
+		<column name="ISO" value="BB"/>
+		<column name="ISO3" value="BRB"/>
+		<column name="UNICODE_FLAG" value="🇧🇧"/>
+		<column name="ID" value="c0f9de47-b37d-41f0-b24c-719b0c171699"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Wallis and Futuna"/>
+		<column name="ISO" value="WF"/>
+		<column name="ISO3" value="WLF"/>
+		<column name="UNICODE_FLAG" value="🇼🇫"/>
+		<column name="ID" value="49ea2eec-f4c7-4aa0-9211-05328daa4b02"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Barthelemy"/>
+		<column name="ISO" value="BL"/>
+		<column name="ISO3" value="BLM"/>
+		<column name="UNICODE_FLAG" value="🇧🇱"/>
+		<column name="ID" value="877ec453-be14-4238-b8c9-4a9f253eba4f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bermuda"/>
+		<column name="ISO" value="BM"/>
+		<column name="ISO3" value="BMU"/>
+		<column name="UNICODE_FLAG" value="🇧🇲"/>
+		<column name="ID" value="7e749a80-f84c-4548-a23c-eae643a08a9d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Brunei"/>
+		<column name="ISO" value="BN"/>
+		<column name="ISO3" value="BRN"/>
+		<column name="UNICODE_FLAG" value="🇧🇳"/>
+		<column name="ID" value="a495647e-2544-4fcc-8628-ffd306b3b60c"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bolivia"/>
+		<column name="ISO" value="BO"/>
+		<column name="ISO3" value="BOL"/>
+		<column name="UNICODE_FLAG" value="🇧🇴"/>
+		<column name="ID" value="777d41f5-6c07-41d3-8a12-c01959949b56"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bahrain"/>
+		<column name="ISO" value="BH"/>
+		<column name="ISO3" value="BHR"/>
+		<column name="UNICODE_FLAG" value="🇧🇭"/>
+		<column name="ID" value="4be7846e-bdd6-4958-b7b9-7488fd5dca2c"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Burundi"/>
+		<column name="ISO" value="BI"/>
+		<column name="ISO3" value="BDI"/>
+		<column name="UNICODE_FLAG" value="🇧🇮"/>
+		<column name="ID" value="92d0297b-37e7-4613-bb88-7b82dbf9cd45"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Benin"/>
+		<column name="ISO" value="BJ"/>
+		<column name="ISO3" value="BEN"/>
+		<column name="UNICODE_FLAG" value="🇧🇯"/>
+		<column name="ID" value="845f3518-57ca-4cc6-9425-4dab9d2c7105"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bhutan"/>
+		<column name="ISO" value="BT"/>
+		<column name="ISO3" value="BTN"/>
+		<column name="UNICODE_FLAG" value="🇧🇹"/>
+		<column name="ID" value="179b6d93-eca8-450a-a062-5cd24ed320f4"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Jamaica"/>
+		<column name="ISO" value="JM"/>
+		<column name="ISO3" value="JAM"/>
+		<column name="UNICODE_FLAG" value="🇯🇲"/>
+		<column name="ID" value="51403e6d-7bfd-4877-ab82-7219dd0223f5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bouvet Island"/>
+		<column name="ISO" value="BV"/>
+		<column name="ISO3" value="BVT"/>
+		<column name="UNICODE_FLAG" value="🇧🇻"/>
+		<column name="ID" value="92954c17-4b57-41e0-86c9-5311df21157b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Botswana"/>
+		<column name="ISO" value="BW"/>
+		<column name="ISO3" value="BWA"/>
+		<column name="UNICODE_FLAG" value="🇧🇼"/>
+		<column name="ID" value="e29aa358-1d23-4f82-a596-acb003e6ee65"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Samoa"/>
+		<column name="ISO" value="WS"/>
+		<column name="ISO3" value="WSM"/>
+		<column name="UNICODE_FLAG" value="🇼🇸"/>
+		<column name="ID" value="ce93d5d2-7caa-4943-aa97-9af4fca3844e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bonaire, Saint Eustatius and Saba "/>
+		<column name="ISO" value="BQ"/>
+		<column name="ISO3" value="BES"/>
+		<column name="UNICODE_FLAG" value="🇧🇶"/>
+		<column name="ID" value="c2affbb5-74dd-4259-a3d7-04e90bc3eeb5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Brazil"/>
+		<column name="ISO" value="BR"/>
+		<column name="ISO3" value="BRA"/>
+		<column name="UNICODE_FLAG" value="🇧🇷"/>
+		<column name="ID" value="bd4f782a-6250-4637-8edc-25441aafd360"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Bahamas"/>
+		<column name="ISO" value="BS"/>
+		<column name="ISO3" value="BHS"/>
+		<column name="UNICODE_FLAG" value="🇧🇸"/>
+		<column name="ID" value="4eff5394-fc3e-4898-850f-9799a203f4ec"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Jersey"/>
+		<column name="ISO" value="JE"/>
+		<column name="ISO3" value="JEY"/>
+		<column name="UNICODE_FLAG" value="🇯🇪"/>
+		<column name="ID" value="4c9e462d-79ff-4760-ab09-473770d9fe99"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Belarus"/>
+		<column name="ISO" value="BY"/>
+		<column name="ISO3" value="BLR"/>
+		<column name="UNICODE_FLAG" value="🇧🇾"/>
+		<column name="ID" value="1085f3d2-63ed-4bd6-a1c7-1286466fd572"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Belize"/>
+		<column name="ISO" value="BZ"/>
+		<column name="ISO3" value="BLZ"/>
+		<column name="UNICODE_FLAG" value="🇧🇿"/>
+		<column name="ID" value="221e52ff-64db-4352-994a-b63bf18a412f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Russia"/>
+		<column name="ISO" value="RU"/>
+		<column name="ISO3" value="RUS"/>
+		<column name="UNICODE_FLAG" value="🇷🇺"/>
+		<column name="ID" value="955be58e-714b-46b3-88d5-c705a9e75333"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Rwanda"/>
+		<column name="ISO" value="RW"/>
+		<column name="ISO3" value="RWA"/>
+		<column name="UNICODE_FLAG" value="🇷🇼"/>
+		<column name="ID" value="5bf126ad-22c6-47ab-85a4-ccb84fea2edb"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Serbia"/>
+		<column name="ISO" value="RS"/>
+		<column name="ISO3" value="SRB"/>
+		<column name="UNICODE_FLAG" value="🇷🇸"/>
+		<column name="ID" value="389854a6-e5a9-41bd-849a-f6314077b03a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Timor-Leste"/>
+		<column name="ISO" value="TL"/>
+		<column name="ISO3" value="TLS"/>
+		<column name="UNICODE_FLAG" value="🇹🇱"/>
+		<column name="ID" value="e9b1a077-19a6-4522-8b4b-d06443413e91"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Réunion"/>
+		<column name="ISO" value="RE"/>
+		<column name="ISO3" value="REU"/>
+		<column name="UNICODE_FLAG" value="🇷🇪"/>
+		<column name="ID" value="5deacdc3-5b7e-48d6-9c1f-d6bef80af84d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Turkmenistan"/>
+		<column name="ISO" value="TM"/>
+		<column name="ISO3" value="TKM"/>
+		<column name="UNICODE_FLAG" value="🇹🇲"/>
+		<column name="ID" value="78ab7ea0-145a-4793-bd57-a39998f64e77"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Tajikistan"/>
+		<column name="ISO" value="TJ"/>
+		<column name="ISO3" value="TJK"/>
+		<column name="UNICODE_FLAG" value="🇹🇯"/>
+		<column name="ID" value="091946d5-7242-4eec-a090-8b29c8a75fc5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Romania"/>
+		<column name="ISO" value="RO"/>
+		<column name="ISO3" value="ROU"/>
+		<column name="UNICODE_FLAG" value="🇷🇴"/>
+		<column name="ID" value="a7efa8d2-2024-4274-a6e7-4b84b2337599"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Tokelau"/>
+		<column name="ISO" value="TK"/>
+		<column name="ISO3" value="TKL"/>
+		<column name="UNICODE_FLAG" value="🇹🇰"/>
+		<column name="ID" value="702ea9c9-9ed6-4dc1-a87d-f05a28c9ae4d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guinea-Bissau"/>
+		<column name="ISO" value="GW"/>
+		<column name="ISO3" value="GNB"/>
+		<column name="UNICODE_FLAG" value="🇬🇼"/>
+		<column name="ID" value="d1de40de-914a-4a78-bd85-a3bd4c03a81a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guam"/>
+		<column name="ISO" value="GU"/>
+		<column name="ISO3" value="GUM"/>
+		<column name="UNICODE_FLAG" value="🇬🇺"/>
+		<column name="ID" value="1a54aba9-0345-4ab7-a9ca-0fe88624d002"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guatemala"/>
+		<column name="ISO" value="GT"/>
+		<column name="ISO3" value="GTM"/>
+		<column name="UNICODE_FLAG" value="🇬🇹"/>
+		<column name="ID" value="27f1d152-b44e-4b63-9881-d117905f6e6b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="South Georgia and the South Sandwich Islands"/>
+		<column name="ISO" value="GS"/>
+		<column name="ISO3" value="SGS"/>
+		<column name="UNICODE_FLAG" value="🇬🇸"/>
+		<column name="ID" value="bffa3822-e9d2-41ff-8af6-b4ebb3e796c2"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Greece"/>
+		<column name="ISO" value="GR"/>
+		<column name="ISO3" value="GRC"/>
+		<column name="UNICODE_FLAG" value="🇬🇷"/>
+		<column name="ID" value="552bb3d9-702d-4f03-a7ca-82b89baab0b8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Equatorial Guinea"/>
+		<column name="ISO" value="GQ"/>
+		<column name="ISO3" value="GNQ"/>
+		<column name="UNICODE_FLAG" value="🇬🇶"/>
+		<column name="ID" value="5b159401-11a8-4fc1-85ec-31d658ea33d1"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guadeloupe"/>
+		<column name="ISO" value="GP"/>
+		<column name="ISO3" value="GLP"/>
+		<column name="UNICODE_FLAG" value="🇬🇵"/>
+		<column name="ID" value="43c44a3b-00a8-462f-be19-b1420dbfd7f4"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Japan"/>
+		<column name="ISO" value="JP"/>
+		<column name="ISO3" value="JPN"/>
+		<column name="UNICODE_FLAG" value="🇯🇵"/>
+		<column name="ID" value="5ef1e0a4-ac4b-438d-a8c8-17b8273ddf36"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guyana"/>
+		<column name="ISO" value="GY"/>
+		<column name="ISO3" value="GUY"/>
+		<column name="UNICODE_FLAG" value="🇬🇾"/>
+		<column name="ID" value="954accf5-e9ec-4712-81b1-94e354f47861"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guernsey"/>
+		<column name="ISO" value="GG"/>
+		<column name="ISO3" value="GGY"/>
+		<column name="UNICODE_FLAG" value="🇬🇬"/>
+		<column name="ID" value="0e241881-c8e4-42cf-83db-28e74596845e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Georgia"/>
+		<column name="ISO" value="GE"/>
+		<column name="ISO3" value="GEO"/>
+		<column name="UNICODE_FLAG" value="🇬🇪"/>
+		<column name="ID" value="2f30c1ac-56c2-4be5-8727-7477c0c87a22"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Grenada"/>
+		<column name="ISO" value="GD"/>
+		<column name="ISO3" value="GRD"/>
+		<column name="UNICODE_FLAG" value="🇬🇩"/>
+		<column name="ID" value="e0a9eaa6-dacd-4fed-a70f-78d32a30ec51"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="United Kingdom"/>
+		<column name="ISO" value="GB"/>
+		<column name="ISO3" value="GBR"/>
+		<column name="UNICODE_FLAG" value="🇬🇧"/>
+		<column name="ID" value="0e3d7ca3-6217-4902-8e22-92469ba2b798"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Gabon"/>
+		<column name="ISO" value="GA"/>
+		<column name="ISO3" value="GAB"/>
+		<column name="UNICODE_FLAG" value="🇬🇦"/>
+		<column name="ID" value="27472337-b73b-431b-a603-7009ed6de7ca"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="El Salvador"/>
+		<column name="ISO" value="SV"/>
+		<column name="ISO3" value="SLV"/>
+		<column name="UNICODE_FLAG" value="🇸🇻"/>
+		<column name="ID" value="b518f9f0-6266-446f-9a47-59e0899d2387"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Guinea"/>
+		<column name="ISO" value="GN"/>
+		<column name="ISO3" value="GIN"/>
+		<column name="UNICODE_FLAG" value="🇬🇳"/>
+		<column name="ID" value="72fd6043-0998-471f-be37-f5d68964d08a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Gambia"/>
+		<column name="ISO" value="GM"/>
+		<column name="ISO3" value="GMB"/>
+		<column name="UNICODE_FLAG" value="🇬🇲"/>
+		<column name="ID" value="f368dd0f-e82b-4376-a549-ac43f6800bf0"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Greenland"/>
+		<column name="ISO" value="GL"/>
+		<column name="ISO3" value="GRL"/>
+		<column name="UNICODE_FLAG" value="🇬🇱"/>
+		<column name="ID" value="03d3dacb-f441-49e8-83f8-cf3ac80ee1b5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Gibraltar"/>
+		<column name="ISO" value="GI"/>
+		<column name="ISO3" value="GIB"/>
+		<column name="UNICODE_FLAG" value="🇬🇮"/>
+		<column name="ID" value="90205e5d-b604-45ed-915d-5702e57c5e7b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Ghana"/>
+		<column name="ISO" value="GH"/>
+		<column name="ISO3" value="GHA"/>
+		<column name="UNICODE_FLAG" value="🇬🇭"/>
+		<column name="ID" value="5af4314c-6fae-498d-b331-2289f75662cc"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Oman"/>
+		<column name="ISO" value="OM"/>
+		<column name="ISO3" value="OMN"/>
+		<column name="UNICODE_FLAG" value="🇴🇲"/>
+		<column name="ID" value="ea20d3dc-3a2d-425a-af02-d640422cf398"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Tunisia"/>
+		<column name="ISO" value="TN"/>
+		<column name="ISO3" value="TUN"/>
+		<column name="UNICODE_FLAG" value="🇹🇳"/>
+		<column name="ID" value="2ed12f73-66fd-481f-bf47-45d56f5491ac"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Jordan"/>
+		<column name="ISO" value="JO"/>
+		<column name="ISO3" value="JOR"/>
+		<column name="UNICODE_FLAG" value="🇯🇴"/>
+		<column name="ID" value="14032d23-24b7-4c25-88c5-6595eb4daea1"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Croatia"/>
+		<column name="ISO" value="HR"/>
+		<column name="ISO3" value="HRV"/>
+		<column name="UNICODE_FLAG" value="🇭🇷"/>
+		<column name="ID" value="1f9f5203-9fd0-44d8-af99-9bcff5edec54"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Haiti"/>
+		<column name="ISO" value="HT"/>
+		<column name="ISO3" value="HTI"/>
+		<column name="UNICODE_FLAG" value="🇭🇹"/>
+		<column name="ID" value="768fc411-3035-4d93-96b9-f3b25e6114fd"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Hungary"/>
+		<column name="ISO" value="HU"/>
+		<column name="ISO3" value="HUN"/>
+		<column name="UNICODE_FLAG" value="🇭🇺"/>
+		<column name="ID" value="7d3e702c-f422-4a5c-88e8-7a82fb134172"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Hong Kong"/>
+		<column name="ISO" value="HK"/>
+		<column name="ISO3" value="HKG"/>
+		<column name="UNICODE_FLAG" value="🇭🇰"/>
+		<column name="ID" value="88018b99-c8d1-4084-8741-2e9f4d7dbe77"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Honduras"/>
+		<column name="ISO" value="HN"/>
+		<column name="ISO3" value="HND"/>
+		<column name="UNICODE_FLAG" value="🇭🇳"/>
+		<column name="ID" value="dcfb8c4c-e3d0-4e4f-bb7d-21b16acf10b8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Heard Island and McDonald Islands"/>
+		<column name="ISO" value="HM"/>
+		<column name="ISO3" value="HMD"/>
+		<column name="UNICODE_FLAG" value="🇭🇲"/>
+		<column name="ID" value="b162c711-99eb-42c6-b351-ec2657e3c024"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Venezuela"/>
+		<column name="ISO" value="VE"/>
+		<column name="ISO3" value="VEN"/>
+		<column name="UNICODE_FLAG" value="🇻🇪"/>
+		<column name="ID" value="d6ca225a-c290-4d8f-9984-d0d792445cc7"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Vatican City State (Holy See)"/>
+		<column name="ISO" value="VA"/>
+		<column name="ISO3" value="VAT"/>
+		<column name="UNICODE_FLAG" value="🇻🇦"/>
+		<column name="ID" value="7f89e80f-fca8-411d-a2b3-dea2a36b3f00"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Puerto Rico"/>
+		<column name="ISO" value="PR"/>
+		<column name="ISO3" value="PRI"/>
+		<column name="UNICODE_FLAG" value="🇵🇷"/>
+		<column name="ID" value="0bae6964-c293-4f72-b1a3-47105476b540"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Palestinian Territory"/>
+		<column name="ISO" value="PS"/>
+		<column name="ISO3" value="PSE"/>
+		<column name="UNICODE_FLAG" value="🇵🇸"/>
+		<column name="ID" value="4845d67a-1c70-4107-87c0-c15ff01cd2c8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Palau"/>
+		<column name="ISO" value="PW"/>
+		<column name="ISO3" value="PLW"/>
+		<column name="UNICODE_FLAG" value="🇵🇼"/>
+		<column name="ID" value="46311bd5-05f3-4fad-aa27-0d661ace0106"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Portugal"/>
+		<column name="ISO" value="PT"/>
+		<column name="ISO3" value="PRT"/>
+		<column name="UNICODE_FLAG" value="🇵🇹"/>
+		<column name="ID" value="c478cd13-fddb-4728-837e-9a0a0cb294c6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Svalbard and Jan Mayen"/>
+		<column name="ISO" value="SJ"/>
+		<column name="ISO3" value="SJM"/>
+		<column name="UNICODE_FLAG" value="🇸🇯"/>
+		<column name="ID" value="660820a9-5c24-4789-a9fd-83820855184a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Paraguay"/>
+		<column name="ISO" value="PY"/>
+		<column name="ISO3" value="PRY"/>
+		<column name="UNICODE_FLAG" value="🇵🇾"/>
+		<column name="ID" value="228d66c6-3bcb-4971-82ac-44e7439e331f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Iraq"/>
+		<column name="ISO" value="IQ"/>
+		<column name="ISO3" value="IRQ"/>
+		<column name="UNICODE_FLAG" value="🇮🇶"/>
+		<column name="ID" value="1624e8f0-9d33-430d-aba6-38d6a6b951bb"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Panama"/>
+		<column name="ISO" value="PA"/>
+		<column name="ISO3" value="PAN"/>
+		<column name="UNICODE_FLAG" value="🇵🇦"/>
+		<column name="ID" value="43562d66-e4fe-4eda-a464-9da7b6a954c3"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="French Polynesia"/>
+		<column name="ISO" value="PF"/>
+		<column name="ISO3" value="PYF"/>
+		<column name="UNICODE_FLAG" value="🇵🇫"/>
+		<column name="ID" value="70694c9b-bd9f-4fd7-b529-b2b481558487"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Papua New Guinea"/>
+		<column name="ISO" value="PG"/>
+		<column name="ISO3" value="PNG"/>
+		<column name="UNICODE_FLAG" value="🇵🇬"/>
+		<column name="ID" value="a7a83284-aee6-4c5d-b973-2a8bcd94f0ee"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Peru"/>
+		<column name="ISO" value="PE"/>
+		<column name="ISO3" value="PER"/>
+		<column name="UNICODE_FLAG" value="🇵🇪"/>
+		<column name="ID" value="487e6766-a4ab-406f-8c86-c99b97458662"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Pakistan"/>
+		<column name="ISO" value="PK"/>
+		<column name="ISO3" value="PAK"/>
+		<column name="UNICODE_FLAG" value="🇵🇰"/>
+		<column name="ID" value="9f29c781-c096-4c3a-a81b-f054c327c7c8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Philippines"/>
+		<column name="ISO" value="PH"/>
+		<column name="ISO3" value="PHL"/>
+		<column name="UNICODE_FLAG" value="🇵🇭"/>
+		<column name="ID" value="7b2c9153-8539-457a-9c0c-b7dbeea219b7"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Pitcairn"/>
+		<column name="ISO" value="PN"/>
+		<column name="ISO3" value="PCN"/>
+		<column name="UNICODE_FLAG" value="🇵🇳"/>
+		<column name="ID" value="af1e2150-ebcb-49aa-bbd7-27f95320d2ec"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Poland"/>
+		<column name="ISO" value="PL"/>
+		<column name="ISO3" value="POL"/>
+		<column name="UNICODE_FLAG" value="🇵🇱"/>
+		<column name="ID" value="1ea9596f-f97a-4aa1-940c-da89515d784b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Pierre and Miquelon"/>
+		<column name="ISO" value="PM"/>
+		<column name="ISO3" value="SPM"/>
+		<column name="UNICODE_FLAG" value="🇵🇲"/>
+		<column name="ID" value="e572bf14-534a-40b9-8e90-6b129c771072"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Zambia"/>
+		<column name="ISO" value="ZM"/>
+		<column name="ISO3" value="ZMB"/>
+		<column name="UNICODE_FLAG" value="🇿🇲"/>
+		<column name="ID" value="05be4ab2-ad9d-47d3-9444-51e77df3a678"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Western Sahara"/>
+		<column name="ISO" value="EH"/>
+		<column name="ISO3" value="ESH"/>
+		<column name="UNICODE_FLAG" value="🇪🇭"/>
+		<column name="ID" value="6236f8f3-8dcc-4bfe-9668-53fd12fdb660"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Estonia"/>
+		<column name="ISO" value="EE"/>
+		<column name="ISO3" value="EST"/>
+		<column name="UNICODE_FLAG" value="🇪🇪"/>
+		<column name="ID" value="3ff799bb-5916-4070-9416-f7dfbefaad04"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Egypt"/>
+		<column name="ISO" value="EG"/>
+		<column name="ISO3" value="EGY"/>
+		<column name="UNICODE_FLAG" value="🇪🇬"/>
+		<column name="ID" value="854be38b-ffc1-4672-a53d-8ca0d9b9059d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cocos (Keeling) Islands"/>
+		<column name="ISO" value="CC"/>
+		<column name="ISO3" value="CCK"/>
+		<column name="UNICODE_FLAG" value="🇨🇨"/>
+		<column name="ID" value="291876ee-2cd5-48c1-8258-8d98b4c75cf5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="South Africa"/>
+		<column name="ISO" value="ZA"/>
+		<column name="ISO3" value="ZAF"/>
+		<column name="UNICODE_FLAG" value="🇿🇦"/>
+		<column name="ID" value="1c3b00e4-61bc-42a8-83a5-9c2502ce395d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Ecuador"/>
+		<column name="ISO" value="EC"/>
+		<column name="ISO3" value="ECU"/>
+		<column name="UNICODE_FLAG" value="🇪🇨"/>
+		<column name="ID" value="51ea30c2-d832-4b62-a684-d2fb13f7ad2c"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Italy"/>
+		<column name="ISO" value="IT"/>
+		<column name="ISO3" value="ITA"/>
+		<column name="UNICODE_FLAG" value="🇮🇹"/>
+		<column name="ID" value="67282683-a4be-475b-b3dc-d01463cef966"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Vietnam"/>
+		<column name="ISO" value="VN"/>
+		<column name="ISO3" value="VNM"/>
+		<column name="UNICODE_FLAG" value="🇻🇳"/>
+		<column name="ID" value="048ee2b2-5a1a-4094-baa3-920f90f90e59"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Solomon Islands"/>
+		<column name="ISO" value="SB"/>
+		<column name="ISO3" value="SLB"/>
+		<column name="UNICODE_FLAG" value="🇸🇧"/>
+		<column name="ID" value="1b99e2e6-fb4c-4e0d-855d-1c0230e3e100"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Ethiopia"/>
+		<column name="ISO" value="ET"/>
+		<column name="ISO3" value="ETH"/>
+		<column name="UNICODE_FLAG" value="🇪🇹"/>
+		<column name="ID" value="e6d47469-e357-4b89-8124-2b2076aa3feb"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Somalia"/>
+		<column name="ISO" value="SO"/>
+		<column name="ISO3" value="SOM"/>
+		<column name="UNICODE_FLAG" value="🇸🇴"/>
+		<column name="ID" value="d804eabe-b588-4611-a7f0-7c5b7ddb14e1"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Zimbabwe"/>
+		<column name="ISO" value="ZW"/>
+		<column name="ISO3" value="ZWE"/>
+		<column name="UNICODE_FLAG" value="🇿🇼"/>
+		<column name="ID" value="d26c2983-1fc5-4ff6-9b41-353bf950db64"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saudi Arabia"/>
+		<column name="ISO" value="SA"/>
+		<column name="ISO3" value="SAU"/>
+		<column name="UNICODE_FLAG" value="🇸🇦"/>
+		<column name="ID" value="bc2b7b8d-bf21-44ad-bd75-6960663cae32"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Spain"/>
+		<column name="ISO" value="ES"/>
+		<column name="ISO3" value="ESP"/>
+		<column name="UNICODE_FLAG" value="🇪🇸"/>
+		<column name="ID" value="d6d96ed5-7990-4fb3-aa13-4d18e0bbf71b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Eritrea"/>
+		<column name="ISO" value="ER"/>
+		<column name="ISO3" value="ERI"/>
+		<column name="UNICODE_FLAG" value="🇪🇷"/>
+		<column name="ID" value="cfafc21d-43f8-43e8-bb53-e0a1cbe035a8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Montenegro"/>
+		<column name="ISO" value="ME"/>
+		<column name="ISO3" value="MNE"/>
+		<column name="UNICODE_FLAG" value="🇲🇪"/>
+		<column name="ID" value="a2cd09a5-cacf-4414-bd7f-b6a66f1f4710"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Moldova"/>
+		<column name="ISO" value="MD"/>
+		<column name="ISO3" value="MDA"/>
+		<column name="UNICODE_FLAG" value="🇲🇩"/>
+		<column name="ID" value="88ddedbd-faaf-48bd-a06a-03893fe83459"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Madagascar"/>
+		<column name="ISO" value="MG"/>
+		<column name="ISO3" value="MDG"/>
+		<column name="UNICODE_FLAG" value="🇲🇬"/>
+		<column name="ID" value="95c3df70-67be-455f-a818-70c23ea35960"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Martin"/>
+		<column name="ISO" value="MF"/>
+		<column name="ISO3" value="MAF"/>
+		<column name="UNICODE_FLAG" value="🇲🇫"/>
+		<column name="ID" value="1c07a24d-083b-49b2-9840-b07d49b3ca8d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Morocco"/>
+		<column name="ISO" value="MA"/>
+		<column name="ISO3" value="MAR"/>
+		<column name="UNICODE_FLAG" value="🇲🇦"/>
+		<column name="ID" value="1d57925a-a005-4409-82e6-0b00aa390906"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Monaco"/>
+		<column name="ISO" value="MC"/>
+		<column name="ISO3" value="MCO"/>
+		<column name="UNICODE_FLAG" value="🇲🇨"/>
+		<column name="ID" value="4affce31-dbe7-4d24-8f69-4b743c17368a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Uzbekistan"/>
+		<column name="ISO" value="UZ"/>
+		<column name="ISO3" value="UZB"/>
+		<column name="UNICODE_FLAG" value="🇺🇿"/>
+		<column name="ID" value="c8f1abd8-c500-401a-bd03-f0b0a787a78c"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Myanmar"/>
+		<column name="ISO" value="MM"/>
+		<column name="ISO3" value="MMR"/>
+		<column name="UNICODE_FLAG" value="🇲🇲"/>
+		<column name="ID" value="7a58bd2f-5744-42ee-8270-b42b5205be73"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mali"/>
+		<column name="ISO" value="ML"/>
+		<column name="ISO3" value="MLI"/>
+		<column name="UNICODE_FLAG" value="🇲🇱"/>
+		<column name="ID" value="a63537f6-8084-45f5-b691-53e13826f091"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Macau"/>
+		<column name="ISO" value="MO"/>
+		<column name="ISO3" value="MAC"/>
+		<column name="UNICODE_FLAG" value="🇲🇴"/>
+		<column name="ID" value="92aeeeec-873a-45c1-a5cb-6a1319363a48"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mongolia"/>
+		<column name="ISO" value="MN"/>
+		<column name="ISO3" value="MNG"/>
+		<column name="UNICODE_FLAG" value="🇲🇳"/>
+		<column name="ID" value="6a74b7b9-afe2-4c31-8889-e0ef980095ab"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Marshall Islands"/>
+		<column name="ISO" value="MH"/>
+		<column name="ISO3" value="MHL"/>
+		<column name="UNICODE_FLAG" value="🇲🇭"/>
+		<column name="ID" value="d378a206-f20f-4849-932b-22f475f45340"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Macedonia"/>
+		<column name="ISO" value="MK"/>
+		<column name="ISO3" value="MKD"/>
+		<column name="UNICODE_FLAG" value="🇲🇰"/>
+		<column name="ID" value="6ad1a633-06d9-435d-adf2-65a8b03f626a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mauritius"/>
+		<column name="ISO" value="MU"/>
+		<column name="ISO3" value="MUS"/>
+		<column name="UNICODE_FLAG" value="🇲🇺"/>
+		<column name="ID" value="a286f09e-7d2b-43b7-a405-44a9e646edf9"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Malta"/>
+		<column name="ISO" value="MT"/>
+		<column name="ISO3" value="MLT"/>
+		<column name="UNICODE_FLAG" value="🇲🇹"/>
+		<column name="ID" value="1f5cfd9c-2809-4520-8e00-3718445d2056"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Malawi"/>
+		<column name="ISO" value="MW"/>
+		<column name="ISO3" value="MWI"/>
+		<column name="UNICODE_FLAG" value="🇲🇼"/>
+		<column name="ID" value="f3885873-c628-4418-94fe-06b272a1d857"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Maldives"/>
+		<column name="ISO" value="MV"/>
+		<column name="ISO3" value="MDV"/>
+		<column name="UNICODE_FLAG" value="🇲🇻"/>
+		<column name="ID" value="73691298-7da9-488b-b0a9-67f50e6bc2c2"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Martinique"/>
+		<column name="ISO" value="MQ"/>
+		<column name="ISO3" value="MTQ"/>
+		<column name="UNICODE_FLAG" value="🇲🇶"/>
+		<column name="ID" value="769b17ad-23c3-45c9-80d0-b27b6d0ea896"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Northern Mariana Islands"/>
+		<column name="ISO" value="MP"/>
+		<column name="ISO3" value="MNP"/>
+		<column name="UNICODE_FLAG" value="🇲🇵"/>
+		<column name="ID" value="104e8384-2feb-4828-8111-37d042480f76"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Montserrat"/>
+		<column name="ISO" value="MS"/>
+		<column name="ISO3" value="MSR"/>
+		<column name="UNICODE_FLAG" value="🇲🇸"/>
+		<column name="ID" value="8add3acb-d8fa-4487-b95f-ae955dfeaa2f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mauritania"/>
+		<column name="ISO" value="MR"/>
+		<column name="ISO3" value="MRT"/>
+		<column name="UNICODE_FLAG" value="🇲🇷"/>
+		<column name="ID" value="18000bee-c18e-451e-aa92-a9c0cbd16fb6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Isle of Man"/>
+		<column name="ISO" value="IM"/>
+		<column name="ISO3" value="IMN"/>
+		<column name="UNICODE_FLAG" value="🇮🇲"/>
+		<column name="ID" value="8f1ab32a-1a6d-4676-a307-33c631a1f0dd"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Uganda"/>
+		<column name="ISO" value="UG"/>
+		<column name="ISO3" value="UGA"/>
+		<column name="UNICODE_FLAG" value="🇺🇬"/>
+		<column name="ID" value="c24cf8ee-a795-4be1-95e3-41b5592c355b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Tanzania"/>
+		<column name="ISO" value="TZ"/>
+		<column name="ISO3" value="TZA"/>
+		<column name="UNICODE_FLAG" value="🇹🇿"/>
+		<column name="ID" value="67976692-63a8-4623-be33-2c154f3f147a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Malaysia"/>
+		<column name="ISO" value="MY"/>
+		<column name="ISO3" value="MYS"/>
+		<column name="UNICODE_FLAG" value="🇲🇾"/>
+		<column name="ID" value="44ac8084-7666-4e17-a40d-1f742cb08a7c"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mexico"/>
+		<column name="ISO" value="MX"/>
+		<column name="ISO3" value="MEX"/>
+		<column name="UNICODE_FLAG" value="🇲🇽"/>
+		<column name="ID" value="ce1a2454-f928-445f-a9c2-5ca5a44a05f5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Israel"/>
+		<column name="ISO" value="IL"/>
+		<column name="ISO3" value="ISR"/>
+		<column name="UNICODE_FLAG" value="🇮🇱"/>
+		<column name="ID" value="beacabad-3efa-4e07-903f-0201d644d9b1"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="France"/>
+		<column name="ISO" value="FR"/>
+		<column name="ISO3" value="FRA"/>
+		<column name="UNICODE_FLAG" value="🇫🇷"/>
+		<column name="ID" value="40b8de44-b9a7-4df0-854d-2b3aaf861e65"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="British Indian Ocean Territory"/>
+		<column name="ISO" value="IO"/>
+		<column name="ISO3" value="IOT"/>
+		<column name="UNICODE_FLAG" value="🇮🇴"/>
+		<column name="ID" value="f0a46b10-d84e-41d4-8bdb-b9dca0bee285"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Helena"/>
+		<column name="ISO" value="SH"/>
+		<column name="ISO3" value="SHN"/>
+		<column name="UNICODE_FLAG" value="🇸🇭"/>
+		<column name="ID" value="6e3c0d49-f587-4700-934d-c161a871ec47"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Finland"/>
+		<column name="ISO" value="FI"/>
+		<column name="ISO3" value="FIN"/>
+		<column name="UNICODE_FLAG" value="🇫🇮"/>
+		<column name="ID" value="d64f8a4b-044e-4664-a6a8-970fb3b7bf60"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Fiji"/>
+		<column name="ISO" value="FJ"/>
+		<column name="ISO3" value="FJI"/>
+		<column name="UNICODE_FLAG" value="🇫🇯"/>
+		<column name="ID" value="557db40e-5b68-4876-a3c0-b8c969ff82c9"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Falkland Islands"/>
+		<column name="ISO" value="FK"/>
+		<column name="ISO3" value="FLK"/>
+		<column name="UNICODE_FLAG" value="🇫🇰"/>
+		<column name="ID" value="184dbd54-d3ed-432b-a8d1-fc4629414dbe"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Micronesia"/>
+		<column name="ISO" value="FM"/>
+		<column name="ISO3" value="FSM"/>
+		<column name="UNICODE_FLAG" value="🇫🇲"/>
+		<column name="ID" value="3d275f36-4b3b-4926-981b-55148361298f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Faroe Islands"/>
+		<column name="ISO" value="FO"/>
+		<column name="ISO3" value="FRO"/>
+		<column name="UNICODE_FLAG" value="🇫🇴"/>
+		<column name="ID" value="5de349ca-4e03-4137-b012-73c3b4b9af81"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Nicaragua"/>
+		<column name="ISO" value="NI"/>
+		<column name="ISO3" value="NIC"/>
+		<column name="UNICODE_FLAG" value="🇳🇮"/>
+		<column name="ID" value="e05a2bf3-f675-428d-9d54-a1abc3b121f6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Netherlands"/>
+		<column name="ISO" value="NL"/>
+		<column name="ISO3" value="NLD"/>
+		<column name="UNICODE_FLAG" value="🇳🇱"/>
+		<column name="ID" value="565f24ca-6b49-4829-97c1-cac8f57afe3e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Norway"/>
+		<column name="ISO" value="NO"/>
+		<column name="ISO3" value="NOR"/>
+		<column name="UNICODE_FLAG" value="🇳🇴"/>
+		<column name="ID" value="d7520bb0-eff4-465a-9b17-79548c502d63"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Namibia"/>
+		<column name="ISO" value="NA"/>
+		<column name="ISO3" value="NAM"/>
+		<column name="UNICODE_FLAG" value="🇳🇦"/>
+		<column name="ID" value="13b3f0a8-5553-4afd-b923-37ac5dc53335"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Vanuatu"/>
+		<column name="ISO" value="VU"/>
+		<column name="ISO3" value="VUT"/>
+		<column name="UNICODE_FLAG" value="🇻🇺"/>
+		<column name="ID" value="41a3fb20-b974-4715-980c-0060ec4266de"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="New Caledonia"/>
+		<column name="ISO" value="NC"/>
+		<column name="ISO3" value="NCL"/>
+		<column name="UNICODE_FLAG" value="🇳🇨"/>
+		<column name="ID" value="59ea84e8-52e8-4a6f-a25f-513241ec138d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Niger"/>
+		<column name="ISO" value="NE"/>
+		<column name="ISO3" value="NER"/>
+		<column name="UNICODE_FLAG" value="🇳🇪"/>
+		<column name="ID" value="b396d6d7-232f-4016-bead-095b1b856866"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Norfolk Island"/>
+		<column name="ISO" value="NF"/>
+		<column name="ISO3" value="NFK"/>
+		<column name="UNICODE_FLAG" value="🇳🇫"/>
+		<column name="ID" value="66db3f79-de74-4f52-bcbc-7aa8f6884227"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Nigeria"/>
+		<column name="ISO" value="NG"/>
+		<column name="ISO3" value="NGA"/>
+		<column name="UNICODE_FLAG" value="🇳🇬"/>
+		<column name="ID" value="d0ba997f-7a4b-4d08-a593-c0043f6758b5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="New Zealand"/>
+		<column name="ISO" value="NZ"/>
+		<column name="ISO3" value="NZL"/>
+		<column name="UNICODE_FLAG" value="🇳🇿"/>
+		<column name="ID" value="226a3458-7486-49de-9555-49d4333e1182"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Nepal"/>
+		<column name="ISO" value="NP"/>
+		<column name="ISO3" value="NPL"/>
+		<column name="UNICODE_FLAG" value="🇳🇵"/>
+		<column name="ID" value="497083b3-a44d-4fe9-88cd-2bde2c073109"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Nauru"/>
+		<column name="ISO" value="NR"/>
+		<column name="ISO3" value="NRU"/>
+		<column name="UNICODE_FLAG" value="🇳🇷"/>
+		<column name="ID" value="565ab3a0-57ed-4bb0-85dc-e113e0638267"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Niue"/>
+		<column name="ISO" value="NU"/>
+		<column name="ISO3" value="NIU"/>
+		<column name="UNICODE_FLAG" value="🇳🇺"/>
+		<column name="ID" value="156cdb29-1f0b-457f-be1f-dc8791a1fb6e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cook Islands"/>
+		<column name="ISO" value="CK"/>
+		<column name="ISO3" value="COK"/>
+		<column name="UNICODE_FLAG" value="🇨🇰"/>
+		<column name="ID" value="c7aaa0f6-0b7e-4f9c-8882-82974473a338"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Kosovo"/>
+		<column name="ISO" value="XK"/>
+		<column name="ISO3" value="XKX"/>
+		<column name="UNICODE_FLAG" value="🇽🇰"/>
+		<column name="ID" value="034d9bc4-06ca-436d-b65b-a76f418519a2"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Ivory Coast"/>
+		<column name="ISO" value="CI"/>
+		<column name="ISO3" value="CIV"/>
+		<column name="UNICODE_FLAG" value="🇨🇮"/>
+		<column name="ID" value="4481dbe6-210a-42ff-92a1-2c2fbbe8c175"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Switzerland"/>
+		<column name="ISO" value="CH"/>
+		<column name="ISO3" value="CHE"/>
+		<column name="UNICODE_FLAG" value="🇨🇭"/>
+		<column name="ID" value="d4694413-a0a1-4fc3-9b7d-f8f740833bef"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Colombia"/>
+		<column name="ISO" value="CO"/>
+		<column name="ISO3" value="COL"/>
+		<column name="UNICODE_FLAG" value="🇨🇴"/>
+		<column name="ID" value="276e81ed-7c83-48b0-bbf8-fd85880cb106"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="China"/>
+		<column name="ISO" value="CN"/>
+		<column name="ISO3" value="CHN"/>
+		<column name="UNICODE_FLAG" value="🇨🇳"/>
+		<column name="ID" value="bd34f06f-3ca6-48b9-be75-db43681c211b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cameroon"/>
+		<column name="ISO" value="CM"/>
+		<column name="ISO3" value="CMR"/>
+		<column name="UNICODE_FLAG" value="🇨🇲"/>
+		<column name="ID" value="ee508f9d-53dd-45cf-a573-bf80baca40aa"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Chile"/>
+		<column name="ISO" value="CL"/>
+		<column name="ISO3" value="CHL"/>
+		<column name="UNICODE_FLAG" value="🇨🇱"/>
+		<column name="ID" value="6917d727-e66f-4075-8b20-449417995142"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cocos Islands"/>
+		<column name="ISO" value="CC"/>
+		<column name="ISO3" value="CCK"/>
+		<column name="UNICODE_FLAG" value="🇨🇨"/>
+		<column name="ID" value="be59fd02-a9fb-4bc2-8cf2-4e227c176c9b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Canada"/>
+		<column name="ISO" value="CA"/>
+		<column name="ISO3" value="CAN"/>
+		<column name="UNICODE_FLAG" value="🇨🇦"/>
+		<column name="ID" value="6cd282ce-8cd6-4076-a238-1ab0f7624e8a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Congo"/>
+		<column name="ISO" value="CG"/>
+		<column name="ISO3" value="COG"/>
+		<column name="UNICODE_FLAG" value="🇨🇬"/>
+		<column name="ID" value="9652b168-71ca-4e76-94c6-e6747f96453e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Central African Republic"/>
+		<column name="ISO" value="CF"/>
+		<column name="ISO3" value="CAF"/>
+		<column name="UNICODE_FLAG" value="🇨🇫"/>
+		<column name="ID" value="8105d4fb-b472-4464-95fe-1bca9f6ca4d1"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Democratic Republic of the Congo"/>
+		<column name="ISO" value="CD"/>
+		<column name="ISO3" value="COD"/>
+		<column name="UNICODE_FLAG" value="🇨🇩"/>
+		<column name="ID" value="10095005-58b4-4e86-812a-5ba8399169ac"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Czech Republic"/>
+		<column name="ISO" value="CZ"/>
+		<column name="ISO3" value="CZE"/>
+		<column name="UNICODE_FLAG" value="🇨🇿"/>
+		<column name="ID" value="cd1c736f-916c-4663-b154-d5235d69ed4f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cyprus"/>
+		<column name="ISO" value="CY"/>
+		<column name="ISO3" value="CYP"/>
+		<column name="UNICODE_FLAG" value="🇨🇾"/>
+		<column name="ID" value="4d640849-d71f-4273-8cc5-79bfe440ca3f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Christmas Island"/>
+		<column name="ISO" value="CX"/>
+		<column name="ISO3" value="CXR"/>
+		<column name="UNICODE_FLAG" value="🇨🇽"/>
+		<column name="ID" value="d500714c-7257-471e-8cb7-7c3606d08599"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Costa Rica"/>
+		<column name="ISO" value="CR"/>
+		<column name="ISO3" value="CRI"/>
+		<column name="UNICODE_FLAG" value="🇨🇷"/>
+		<column name="ID" value="d0600b5f-e522-4274-a65a-92f733fcc682"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Curacao"/>
+		<column name="ISO" value="CW"/>
+		<column name="ISO3" value="CUW"/>
+		<column name="UNICODE_FLAG" value="🇨🇼"/>
+		<column name="ID" value="594521af-bffa-425e-868a-2a67358edff9"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cape Verde"/>
+		<column name="ISO" value="CV"/>
+		<column name="ISO3" value="CPV"/>
+		<column name="UNICODE_FLAG" value="🇨🇻"/>
+		<column name="ID" value="6d9aa996-191f-4df0-8146-9dd0d289df7e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cuba"/>
+		<column name="ISO" value="CU"/>
+		<column name="ISO3" value="CUB"/>
+		<column name="UNICODE_FLAG" value="🇨🇺"/>
+		<column name="ID" value="11a4357a-b795-49b3-ac8a-72043a7eb556"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Swaziland"/>
+		<column name="ISO" value="SZ"/>
+		<column name="ISO3" value="SWZ"/>
+		<column name="UNICODE_FLAG" value="🇸🇿"/>
+		<column name="ID" value="946af534-3ef9-4253-8413-29b143bc042f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Syria"/>
+		<column name="ISO" value="SY"/>
+		<column name="ISO3" value="SYR"/>
+		<column name="UNICODE_FLAG" value="🇸🇾"/>
+		<column name="ID" value="b6b94f34-9ba7-4697-ab7b-e149dd3791a6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Sint Maarten"/>
+		<column name="ISO" value="SX"/>
+		<column name="ISO3" value="SXM"/>
+		<column name="UNICODE_FLAG" value="🇸🇽"/>
+		<column name="ID" value="4afcd864-54ee-4218-8e29-f1d7b43ea0bd"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Kyrgyzstan"/>
+		<column name="ISO" value="KG"/>
+		<column name="ISO3" value="KGZ"/>
+		<column name="UNICODE_FLAG" value="🇰🇬"/>
+		<column name="ID" value="cc51e67f-6641-486c-8e0b-8b269f7b4675"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Kenya"/>
+		<column name="ISO" value="KE"/>
+		<column name="ISO3" value="KEN"/>
+		<column name="UNICODE_FLAG" value="🇰🇪"/>
+		<column name="ID" value="e7759ee6-de9f-4ff4-a810-39c7165aacdd"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="South Sudan"/>
+		<column name="ISO" value="SS"/>
+		<column name="ISO3" value="SSD"/>
+		<column name="UNICODE_FLAG" value="🇸🇸"/>
+		<column name="ID" value="6bf241f7-c917-4055-a58f-781455314aa6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Suriname"/>
+		<column name="ISO" value="SR"/>
+		<column name="ISO3" value="SUR"/>
+		<column name="UNICODE_FLAG" value="🇸🇷"/>
+		<column name="ID" value="b95d2557-40ff-454f-8080-20a01f61b320"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Kiribati"/>
+		<column name="ISO" value="KI"/>
+		<column name="ISO3" value="KIR"/>
+		<column name="UNICODE_FLAG" value="🇰🇮"/>
+		<column name="ID" value="f31de977-7ee8-41a1-8f8c-cb85158cbe99"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cambodia"/>
+		<column name="ISO" value="KH"/>
+		<column name="ISO3" value="KHM"/>
+		<column name="UNICODE_FLAG" value="🇰🇭"/>
+		<column name="ID" value="dee333ae-d9e3-447e-92b5-c211c1418b14"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Kitts and Nevis"/>
+		<column name="ISO" value="KN"/>
+		<column name="ISO3" value="KNA"/>
+		<column name="UNICODE_FLAG" value="🇰🇳"/>
+		<column name="ID" value="46ad04ec-3e61-4318-a7d9-2ae920041fbb"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Comoros"/>
+		<column name="ISO" value="KM"/>
+		<column name="ISO3" value="COM"/>
+		<column name="UNICODE_FLAG" value="🇰🇲"/>
+		<column name="ID" value="03b1d20e-2250-404b-834b-26300ae8cdf6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Sao Tome and Principe"/>
+		<column name="ISO" value="ST"/>
+		<column name="ISO3" value="STP"/>
+		<column name="UNICODE_FLAG" value="🇸🇹"/>
+		<column name="ID" value="6a3efab3-7923-49c1-ac87-80cacda95654"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Slovakia"/>
+		<column name="ISO" value="SK"/>
+		<column name="ISO3" value="SVK"/>
+		<column name="UNICODE_FLAG" value="🇸🇰"/>
+		<column name="ID" value="fd3b1f55-a9b8-4515-9037-a6552c8262d3"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="South Korea"/>
+		<column name="ISO" value="KR"/>
+		<column name="ISO3" value="KOR"/>
+		<column name="UNICODE_FLAG" value="🇰🇷"/>
+		<column name="ID" value="d23c5562-f3e0-4449-ad2a-ab08ab6c4f3d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Slovenia"/>
+		<column name="ISO" value="SI"/>
+		<column name="ISO3" value="SVN"/>
+		<column name="UNICODE_FLAG" value="🇸🇮"/>
+		<column name="ID" value="ff1fcb00-8ba9-48ea-adfe-046e5d23b563"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="North Korea"/>
+		<column name="ISO" value="KP"/>
+		<column name="ISO3" value="PRK"/>
+		<column name="UNICODE_FLAG" value="🇰🇵"/>
+		<column name="ID" value="a252691c-e19b-42fd-9773-6927d8087ead"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Kuwait"/>
+		<column name="ISO" value="KW"/>
+		<column name="ISO3" value="KWT"/>
+		<column name="UNICODE_FLAG" value="🇰🇼"/>
+		<column name="ID" value="2580738a-7af1-42b1-93b8-d8bfa125a658"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Senegal"/>
+		<column name="ISO" value="SN"/>
+		<column name="ISO3" value="SEN"/>
+		<column name="UNICODE_FLAG" value="🇸🇳"/>
+		<column name="ID" value="6f21b6f3-c91d-42be-9491-3ccdb5d6e085"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="San Marino"/>
+		<column name="ISO" value="SM"/>
+		<column name="ISO3" value="SMR"/>
+		<column name="UNICODE_FLAG" value="🇸🇲"/>
+		<column name="ID" value="62d70148-23e1-4e12-9223-afd45058d9cb"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Sierra Leone"/>
+		<column name="ISO" value="SL"/>
+		<column name="ISO3" value="SLE"/>
+		<column name="UNICODE_FLAG" value="🇸🇱"/>
+		<column name="ID" value="b9c539da-8bd1-44ee-b06d-5d2e7a089a85"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Seychelles"/>
+		<column name="ISO" value="SC"/>
+		<column name="ISO3" value="SYC"/>
+		<column name="UNICODE_FLAG" value="🇸🇨"/>
+		<column name="ID" value="6dcc01ae-5ae6-4580-b213-719d8a25f08f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Kazakhstan"/>
+		<column name="ISO" value="KZ"/>
+		<column name="ISO3" value="KAZ"/>
+		<column name="UNICODE_FLAG" value="🇰🇿"/>
+		<column name="ID" value="c93a5047-0be0-440d-8a11-8089487d71e9"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Cayman Islands"/>
+		<column name="ISO" value="KY"/>
+		<column name="ISO3" value="CYM"/>
+		<column name="UNICODE_FLAG" value="🇰🇾"/>
+		<column name="ID" value="61aa50f0-21d8-4f20-96e2-7c1c2640bd58"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Singapore"/>
+		<column name="ISO" value="SG"/>
+		<column name="ISO3" value="SGP"/>
+		<column name="UNICODE_FLAG" value="🇸🇬"/>
+		<column name="ID" value="26caadc7-3525-4d5e-9f9a-b38a2b8c18d3"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Sweden"/>
+		<column name="ISO" value="SE"/>
+		<column name="ISO3" value="SWE"/>
+		<column name="UNICODE_FLAG" value="🇸🇪"/>
+		<column name="ID" value="45115686-8bcd-466f-9ba2-7d54bd430b17"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Sudan"/>
+		<column name="ISO" value="SD"/>
+		<column name="ISO3" value="SDN"/>
+		<column name="UNICODE_FLAG" value="🇸🇩"/>
+		<column name="ID" value="298328d5-34cd-4ae6-9924-4a0844da8255"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Dominican Republic"/>
+		<column name="ISO" value="DO"/>
+		<column name="ISO3" value="DOM"/>
+		<column name="UNICODE_FLAG" value="🇩🇴"/>
+		<column name="ID" value="6ebee582-8709-4113-84ec-c21f5f641a82"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Dominica"/>
+		<column name="ISO" value="DM"/>
+		<column name="ISO3" value="DMA"/>
+		<column name="UNICODE_FLAG" value="🇩🇲"/>
+		<column name="ID" value="68bcc6d6-636f-4f2d-be15-fc40bd0d34f8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Djibouti"/>
+		<column name="ISO" value="DJ"/>
+		<column name="ISO3" value="DJI"/>
+		<column name="UNICODE_FLAG" value="🇩🇯"/>
+		<column name="ID" value="62ad5b91-b1a5-4ebd-a88b-dbc7df255cdf"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Denmark"/>
+		<column name="ISO" value="DK"/>
+		<column name="ISO3" value="DNK"/>
+		<column name="UNICODE_FLAG" value="🇩🇰"/>
+		<column name="ID" value="d434a3ad-fc2a-4515-9ed6-0a7057aac634"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="British Virgin Islands"/>
+		<column name="ISO" value="VG"/>
+		<column name="ISO3" value="VGB"/>
+		<column name="UNICODE_FLAG" value="🇻🇬"/>
+		<column name="ID" value="36ca5ce2-2df1-4a57-b0f9-57f8d2b04a2f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Germany"/>
+		<column name="ISO" value="DE"/>
+		<column name="ISO3" value="DEU"/>
+		<column name="UNICODE_FLAG" value="🇩🇪"/>
+		<column name="ID" value="8c8d98f6-5a08-4595-947a-d9f47bbc479a"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Yemen"/>
+		<column name="ISO" value="YE"/>
+		<column name="ISO3" value="YEM"/>
+		<column name="UNICODE_FLAG" value="🇾🇪"/>
+		<column name="ID" value="5e37c9c9-7d5d-43cf-96a2-2c1be7674c82"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Algeria"/>
+		<column name="ISO" value="DZ"/>
+		<column name="ISO3" value="DZA"/>
+		<column name="UNICODE_FLAG" value="🇩🇿"/>
+		<column name="ID" value="e5624954-cf2b-4448-b0b9-ca2a66122f65"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="United States"/>
+		<column name="ISO" value="US"/>
+		<column name="ISO3" value="USA"/>
+		<column name="UNICODE_FLAG" value="🇺🇸"/>
+		<column name="ID" value="fce55cbf-cf3a-4736-8334-2b773ad5c848"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Uruguay"/>
+		<column name="ISO" value="UY"/>
+		<column name="ISO3" value="URY"/>
+		<column name="UNICODE_FLAG" value="🇺🇾"/>
+		<column name="ID" value="ba9fcf89-6743-4015-9870-6d751095a439"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mayotte"/>
+		<column name="ISO" value="YT"/>
+		<column name="ISO3" value="MYT"/>
+		<column name="UNICODE_FLAG" value="🇾🇹"/>
+		<column name="ID" value="184ea5c4-d49e-4563-8e50-443de15b2943"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="United States Minor Outlying Islands"/>
+		<column name="ISO" value="UM"/>
+		<column name="ISO3" value="UMI"/>
+		<column name="UNICODE_FLAG" value="🇺🇲"/>
+		<column name="ID" value="23f4e5ec-8b9c-4c38-8e20-c04f82aac036"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Lebanon"/>
+		<column name="ISO" value="LB"/>
+		<column name="ISO3" value="LBN"/>
+		<column name="UNICODE_FLAG" value="🇱🇧"/>
+		<column name="ID" value="d79f6b55-2b07-4433-8527-dedf11422a6e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Lucia"/>
+		<column name="ISO" value="LC"/>
+		<column name="ISO3" value="LCA"/>
+		<column name="UNICODE_FLAG" value="🇱🇨"/>
+		<column name="ID" value="01adc1f3-0adf-40d2-b673-a0ef4fe1692c"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Laos"/>
+		<column name="ISO" value="LA"/>
+		<column name="ISO3" value="LAO"/>
+		<column name="UNICODE_FLAG" value="🇱🇦"/>
+		<column name="ID" value="d6551a93-fc44-4eb8-a98f-1125fde9a424"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Tuvalu"/>
+		<column name="ISO" value="TV"/>
+		<column name="ISO3" value="TUV"/>
+		<column name="UNICODE_FLAG" value="🇹🇻"/>
+		<column name="ID" value="49bc4415-3e8a-458e-a28f-69e18da65d52"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Taiwan"/>
+		<column name="ISO" value="TW"/>
+		<column name="ISO3" value="TWN"/>
+		<column name="UNICODE_FLAG" value="🇹🇼"/>
+		<column name="ID" value="922bd329-3f41-4216-887d-3b1c1ffb2ec7"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Trinidad and Tobago"/>
+		<column name="ISO" value="TT"/>
+		<column name="ISO3" value="TTO"/>
+		<column name="UNICODE_FLAG" value="🇹🇹"/>
+		<column name="ID" value="c9e07103-badd-4a3d-a7b7-ed0d120f8984"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Turkey"/>
+		<column name="ISO" value="TR"/>
+		<column name="ISO3" value="TUR"/>
+		<column name="UNICODE_FLAG" value="🇹🇷"/>
+		<column name="ID" value="36df05c2-ae7e-4c45-80fa-77c97bb5e650"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Sri Lanka"/>
+		<column name="ISO" value="LK"/>
+		<column name="ISO3" value="LKA"/>
+		<column name="UNICODE_FLAG" value="🇱🇰"/>
+		<column name="ID" value="b1a6e285-42c0-479a-b6f5-1bd800a1bd11"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Liechtenstein"/>
+		<column name="ISO" value="LI"/>
+		<column name="ISO3" value="LIE"/>
+		<column name="UNICODE_FLAG" value="🇱🇮"/>
+		<column name="ID" value="ad3b915c-e9cb-4270-84e0-b3bfdd66d83b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Latvia"/>
+		<column name="ISO" value="LV"/>
+		<column name="ISO3" value="LVA"/>
+		<column name="UNICODE_FLAG" value="🇱🇻"/>
+		<column name="ID" value="a17293ea-624d-4cf0-8df1-c5f9dd053cfc"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Tonga"/>
+		<column name="ISO" value="TO"/>
+		<column name="ISO3" value="TON"/>
+		<column name="UNICODE_FLAG" value="🇹🇴"/>
+		<column name="ID" value="89ba5b7c-5bbc-4a9f-9dce-1a58baa6c41f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Lithuania"/>
+		<column name="ISO" value="LT"/>
+		<column name="ISO3" value="LTU"/>
+		<column name="UNICODE_FLAG" value="🇱🇹"/>
+		<column name="ID" value="77cf2d8c-7d83-4572-9c3b-396a63c6bf94"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Luxembourg"/>
+		<column name="ISO" value="LU"/>
+		<column name="ISO3" value="LUX"/>
+		<column name="UNICODE_FLAG" value="🇱🇺"/>
+		<column name="ID" value="243b96f5-23cf-4dcb-a841-4bf538da1052"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Liberia"/>
+		<column name="ISO" value="LR"/>
+		<column name="ISO3" value="LBR"/>
+		<column name="UNICODE_FLAG" value="🇱🇷"/>
+		<column name="ID" value="cb9d74c7-6930-424f-b539-f87d5012bec3"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Lesotho"/>
+		<column name="ISO" value="LS"/>
+		<column name="ISO3" value="LSO"/>
+		<column name="UNICODE_FLAG" value="🇱🇸"/>
+		<column name="ID" value="a31ce299-894c-497d-bdb5-4903cb22848b"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Thailand"/>
+		<column name="ISO" value="TH"/>
+		<column name="ISO3" value="THA"/>
+		<column name="UNICODE_FLAG" value="🇹🇭"/>
+		<column name="ID" value="14da79ec-6491-4696-a4dc-ea0355396f27"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="French Southern Territories"/>
+		<column name="ISO" value="TF"/>
+		<column name="ISO3" value="ATF"/>
+		<column name="UNICODE_FLAG" value="🇹🇫"/>
+		<column name="ID" value="e7724cac-8c9a-49cd-bad6-a147afe6be03"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Togo"/>
+		<column name="ISO" value="TG"/>
+		<column name="ISO3" value="TGO"/>
+		<column name="UNICODE_FLAG" value="🇹🇬"/>
+		<column name="ID" value="e66b487e-e3ed-4357-9381-ddb510b643ff"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Chad"/>
+		<column name="ISO" value="TD"/>
+		<column name="ISO3" value="TCD"/>
+		<column name="UNICODE_FLAG" value="🇹🇩"/>
+		<column name="ID" value="ed3bfd21-6a82-4d65-887c-70751018c537"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Turks and Caicos Islands"/>
+		<column name="ISO" value="TC"/>
+		<column name="ISO3" value="TCA"/>
+		<column name="UNICODE_FLAG" value="🇹🇨"/>
+		<column name="ID" value="0b6b2d1f-4905-4e71-9466-93259b63e401"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Libya"/>
+		<column name="ISO" value="LY"/>
+		<column name="ISO3" value="LBY"/>
+		<column name="UNICODE_FLAG" value="🇱🇾"/>
+		<column name="ID" value="ca58b68e-e7ea-4e38-9509-e38ef0d89cf8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Vatican"/>
+		<column name="ISO" value="VA"/>
+		<column name="ISO3" value="VAT"/>
+		<column name="UNICODE_FLAG" value="🇻🇦"/>
+		<column name="ID" value="85be4242-63bd-46b1-b42b-3203abd524c7"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Saint Vincent and the Grenadines"/>
+		<column name="ISO" value="VC"/>
+		<column name="ISO3" value="VCT"/>
+		<column name="UNICODE_FLAG" value="🇻🇨"/>
+		<column name="ID" value="d11b913e-79d8-40af-a8d8-fd7c3d5a2d8d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="United Arab Emirates"/>
+		<column name="ISO" value="AE"/>
+		<column name="ISO3" value="ARE"/>
+		<column name="UNICODE_FLAG" value="🇦🇪"/>
+		<column name="ID" value="b638ee79-254e-4b5c-ba8a-405142b9f295"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Andorra"/>
+		<column name="ISO" value="AD"/>
+		<column name="ISO3" value="AND"/>
+		<column name="UNICODE_FLAG" value="🇦🇩"/>
+		<column name="ID" value="f2f97ea2-9b05-4b52-a9d3-77a4b75e8416"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Antigua and Barbuda"/>
+		<column name="ISO" value="AG"/>
+		<column name="ISO3" value="ATG"/>
+		<column name="UNICODE_FLAG" value="🇦🇬"/>
+		<column name="ID" value="f72ae343-7a48-4a39-83ab-164287b4d6b6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Afghanistan"/>
+		<column name="ISO" value="AF"/>
+		<column name="ISO3" value="AFG"/>
+		<column name="UNICODE_FLAG" value="🇦🇫"/>
+		<column name="ID" value="f74ea37d-eb17-425a-88f6-1e2f34901cdf"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Anguilla"/>
+		<column name="ISO" value="AI"/>
+		<column name="ISO3" value="AIA"/>
+		<column name="UNICODE_FLAG" value="🇦🇮"/>
+		<column name="ID" value="7b12bca5-f12d-4b8f-9c53-d4c38b772186"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="U.S. Virgin Islands"/>
+		<column name="ISO" value="VI"/>
+		<column name="ISO3" value="VIR"/>
+		<column name="UNICODE_FLAG" value="🇻🇮"/>
+		<column name="ID" value="3eea634b-5753-49ed-9709-44fd0ed4d8e2"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Iceland"/>
+		<column name="ISO" value="IS"/>
+		<column name="ISO3" value="ISL"/>
+		<column name="UNICODE_FLAG" value="🇮🇸"/>
+		<column name="ID" value="372d2853-1105-43e3-b754-6a3e5d757cc3"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Iran"/>
+		<column name="ISO" value="IR"/>
+		<column name="ISO3" value="IRN"/>
+		<column name="UNICODE_FLAG" value="🇮🇷"/>
+		<column name="ID" value="0027722e-c386-4896-94c8-3e72d42914d5"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Armenia"/>
+		<column name="ISO" value="AM"/>
+		<column name="ISO3" value="ARM"/>
+		<column name="UNICODE_FLAG" value="🇦🇲"/>
+		<column name="ID" value="cd17cf0e-37a9-4502-a66c-8d17d8a8ea7f"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Albania"/>
+		<column name="ISO" value="AL"/>
+		<column name="ISO3" value="ALB"/>
+		<column name="UNICODE_FLAG" value="🇦🇱"/>
+		<column name="ID" value="84e5f050-4d85-4560-a1bd-3d08e61b7680"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Angola"/>
+		<column name="ISO" value="AO"/>
+		<column name="ISO3" value="AGO"/>
+		<column name="UNICODE_FLAG" value="🇦🇴"/>
+		<column name="ID" value="e87d65e4-f0d9-40cb-bcc9-4cc325021516"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Antarctica"/>
+		<column name="ISO" value="AQ"/>
+		<column name="ISO3" value="ATA"/>
+		<column name="UNICODE_FLAG" value="🇦🇶"/>
+		<column name="ID" value="568f66dd-6be1-4273-ac29-d584df5903ee"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="American Samoa"/>
+		<column name="ISO" value="AS"/>
+		<column name="ISO3" value="ASM"/>
+		<column name="UNICODE_FLAG" value="🇦🇸"/>
+		<column name="ID" value="fc543b68-0c00-4aaa-a499-bcdd35f9b4e0"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Argentina"/>
+		<column name="ISO" value="AR"/>
+		<column name="ISO3" value="ARG"/>
+		<column name="UNICODE_FLAG" value="🇦🇷"/>
+		<column name="ID" value="f8f92f44-1766-42f1-b90a-1deb8afe6609"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Australia"/>
+		<column name="ISO" value="AU"/>
+		<column name="ISO3" value="AUS"/>
+		<column name="UNICODE_FLAG" value="🇦🇺"/>
+		<column name="ID" value="a81b2943-ab14-4ec2-99d7-7f94d16146ff"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Austria"/>
+		<column name="ISO" value="AT"/>
+		<column name="ISO3" value="AUT"/>
+		<column name="UNICODE_FLAG" value="🇦🇹"/>
+		<column name="ID" value="539cee92-d5f5-49ab-9350-f45b810bf818"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Aruba"/>
+		<column name="ISO" value="AW"/>
+		<column name="ISO3" value="ABW"/>
+		<column name="UNICODE_FLAG" value="🇦🇼"/>
+		<column name="ID" value="407663c2-f88c-4d56-9ba9-e8786da1a5cd"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="India"/>
+		<column name="ISO" value="IN"/>
+		<column name="ISO3" value="IND"/>
+		<column name="UNICODE_FLAG" value="🇮🇳"/>
+		<column name="ID" value="17d42299-ab87-45e8-9ded-e51c90a3067d"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Aland Islands"/>
+		<column name="ISO" value="AX"/>
+		<column name="ISO3" value="ALA"/>
+		<column name="UNICODE_FLAG" value="🇦🇽"/>
+		<column name="ID" value="cb6255c0-4b85-42f4-b46e-4fe61e185ee0"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Azerbaijan"/>
+		<column name="ISO" value="AZ"/>
+		<column name="ISO3" value="AZE"/>
+		<column name="UNICODE_FLAG" value="🇦🇿"/>
+		<column name="ID" value="87a5327b-5dc9-4d94-aa09-9e20e2754648"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Ireland"/>
+		<column name="ISO" value="IE"/>
+		<column name="ISO3" value="IRL"/>
+		<column name="UNICODE_FLAG" value="🇮🇪"/>
+		<column name="ID" value="91e7b72c-ee37-4338-9b7d-70f14586cced"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Indonesia"/>
+		<column name="ISO" value="ID"/>
+		<column name="ISO3" value="IDN"/>
+		<column name="UNICODE_FLAG" value="🇮🇩"/>
+		<column name="ID" value="a0a1c710-c2b7-4053-a25e-54ed4a7c02a6"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Ukraine"/>
+		<column name="ISO" value="UA"/>
+		<column name="ISO3" value="UKR"/>
+		<column name="UNICODE_FLAG" value="🇺🇦"/>
+		<column name="ID" value="afec3337-3b55-466d-8779-3d1670cb203e"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Qatar"/>
+		<column name="ISO" value="QA"/>
+		<column name="ISO3" value="QAT"/>
+		<column name="UNICODE_FLAG" value="🇶🇦"/>
+		<column name="ID" value="d70c635b-54ae-4a20-83c9-654702ec7eb8"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="NAME" value="Mozambique"/>
+		<column name="ISO" value="MZ"/>
+		<column name="ISO3" value="MOZ"/>
+		<column name="UNICODE_FLAG" value="🇲🇿"/>
+		<column name="ID" value="595e04fe-47a9-4094-9630-694fd06c05fd"/>
+		<column name="VERSION" value="1"/>
+	</insert>
+</changeSet>
