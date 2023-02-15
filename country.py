@@ -4,7 +4,7 @@ import os
 import requests
 
 
-def GenerateXML(name, value):
+def GenerateXML(country):
 
     insert = root.createElement('insert') 
     insert.setAttribute('dbms','postgresql, mssql, hsqldb')
@@ -12,11 +12,12 @@ def GenerateXML(name, value):
 
     xml.appendChild(insert)
 
-    columns = root.createElement('column')
-    columns.setAttribute('name', name)
-    columns.setAttribute('value', value)
+    for key, value in x.items():
+        columns = root.createElement('column')
+        columns.setAttribute('name', key)
+        columns.setAttribute('value', value)
 
-    insert.appendChild(columns)
+        insert.appendChild(columns)
 
 
     xml_str = root.toprettyxml(indent ="\t") 
@@ -46,10 +47,10 @@ items = [{"name":"ID", "value":"2490d995-9e66-8105-fbd1-9c00cd1c8b7B"},
 thisKeys= set()
 
 for x in allCountries:
-    # GenerateXML(x["name"], x["value"])
+    GenerateXML(x)
 
-    for key, value in x.items():
+    # for key, value in x.items():
         # print(x[key])
-        GenerateXML(key,value)
+        # GenerateXML(key,value)
 # for i in items:
 #     print(i)
