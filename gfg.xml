@@ -1,0 +1,3015 @@
+<?xml version="1.0" ?>
+<changeSet author="Tathmini" context="!cuba">
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bangladesh"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BGD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Belgium"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BEL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Burkina Faso"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BFA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bulgaria"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BGR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bosnia and Herzegovina"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BIH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Barbados"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BRB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇧"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Wallis and Futuna"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="WF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="WLF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇼🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Barthelemy"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BLM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bermuda"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BMU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Brunei"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BRN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bolivia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BOL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bahrain"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BHR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Burundi"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BDI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Benin"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BJ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BEN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇯"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bhutan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BTN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Jamaica"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="JM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="JAM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇯🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bouvet Island"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BVT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇻"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Botswana"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BWA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Samoa"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="WS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="WSM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇼🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bonaire, Saint Eustatius and Saba "/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BES"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇶"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Brazil"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BRA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Bahamas"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BHS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Jersey"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="JE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="JEY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇯🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Belarus"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BLR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Belize"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="BZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="BLZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇧🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Russia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="RU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="RUS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇷🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Rwanda"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="RW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="RWA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇷🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Serbia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="RS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SRB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇷🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Timor-Leste"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TLS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Réunion"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="RE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="REU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇷🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Turkmenistan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TKM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Tajikistan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TJ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TJK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇯"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Romania"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="RO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ROU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇷🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Tokelau"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TKL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guinea-Bissau"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GNB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guam"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GUM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guatemala"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GTM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="South Georgia and the South Sandwich Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SGS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Greece"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GRC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Equatorial Guinea"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GNQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇶"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guadeloupe"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GLP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇵"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Japan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="JP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="JPN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇯🇵"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guyana"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GUY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guernsey"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GGY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Georgia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GEO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Grenada"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GRD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="United Kingdom"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GBR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇧"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Gabon"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GAB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="El Salvador"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SLV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇻"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Guinea"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GIN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Gambia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GMB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Greenland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GRL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Gibraltar"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GIB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Ghana"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="GH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="GHA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇬🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Oman"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="OM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="OMN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇴🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Tunisia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TUN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Jordan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="JO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="JOR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇯🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Croatia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="HR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="HRV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇭🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Haiti"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="HT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="HTI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇭🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Hungary"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="HU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="HUN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇭🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Hong Kong"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="HK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="HKG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇭🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Honduras"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="HN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="HND"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇭🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Heard Island and McDonald Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="HM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="HMD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇭🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Venezuela"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VEN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Vatican City State (Holy See)"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VAT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Puerto Rico"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PRI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Palestinian Territory"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PSE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Palau"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PLW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Portugal"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PRT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Svalbard and Jan Mayen"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SJ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SJM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇯"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Paraguay"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PRY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Iraq"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IRQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇶"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Panama"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PAN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="French Polynesia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PYF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Papua New Guinea"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PNG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Peru"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PER"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Pakistan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PAK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Philippines"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PHL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Pitcairn"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PCN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Poland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="POL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Pierre and Miquelon"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="PM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SPM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇵🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Zambia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ZM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ZMB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇿🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Western Sahara"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="EH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ESH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Estonia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="EE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="EST"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Egypt"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="EG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="EGY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cocos (Keeling) Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CCK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="South Africa"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ZA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ZAF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇿🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Ecuador"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="EC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ECU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Italy"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ITA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Vietnam"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VNM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Solomon Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SLB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇧"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Ethiopia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ET"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ETH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Somalia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SOM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Zimbabwe"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ZW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ZWE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇿🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saudi Arabia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SAU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Spain"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ES"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ESP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Eritrea"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ER"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ERI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇪🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Montenegro"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ME"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MNE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Moldova"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MDA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Madagascar"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MDG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Martin"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MAF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Morocco"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MAR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Monaco"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MCO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Uzbekistan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="UZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="UZB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇺🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Myanmar"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MMR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mali"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ML"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MLI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Macau"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MAC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mongolia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MNG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Marshall Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MHL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Macedonia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MKD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mauritius"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MUS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Malta"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MLT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Malawi"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MWI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Maldives"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MDV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇻"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Martinique"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MTQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇶"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Northern Mariana Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MNP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇵"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Montserrat"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MSR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mauritania"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MRT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Isle of Man"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IMN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Uganda"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="UG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="UGA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇺🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Tanzania"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TZA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Malaysia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MYS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mexico"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MEX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇽"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Israel"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ISR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="France"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="FR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="FRA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇫🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="British Indian Ocean Territory"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IOT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Helena"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SHN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Finland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="FI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="FIN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇫🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Fiji"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="FJ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="FJI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇫🇯"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Falkland Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="FK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="FLK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇫🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Micronesia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="FM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="FSM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇫🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Faroe Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="FO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="FRO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇫🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Nicaragua"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NIC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Netherlands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NLD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Norway"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NOR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Namibia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NAM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Vanuatu"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VUT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="New Caledonia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NCL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Niger"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NER"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Norfolk Island"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NFK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Nigeria"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NGA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="New Zealand"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NZL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Nepal"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NPL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇵"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Nauru"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NRU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Niue"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="NU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="NIU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇳🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cook Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="COK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Kosovo"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="XK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="XKX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇽🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Ivory Coast"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CIV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Switzerland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CHE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Colombia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="COL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="China"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CHN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cameroon"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CMR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Chile"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CHL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cocos Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CCK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Canada"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CAN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Congo"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="COG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Central African Republic"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CAF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Democratic Republic of the Congo"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="COD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Czech Republic"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CZE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cyprus"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CYP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Christmas Island"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CXR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇽"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Costa Rica"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CRI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Curacao"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CUW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cape Verde"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CPV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇻"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cuba"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="CU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CUB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇨🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Swaziland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SWZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Syria"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SYR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Sint Maarten"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SXM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇽"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Kyrgyzstan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KGZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Kenya"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KEN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="South Sudan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SSD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Suriname"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SUR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Kiribati"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KIR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cambodia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KHM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Kitts and Nevis"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KNA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Comoros"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="COM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Sao Tome and Principe"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ST"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="STP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Slovakia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SVK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="South Korea"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KOR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Slovenia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SVN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="North Korea"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="PRK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇵"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Kuwait"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KWT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Senegal"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SEN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="San Marino"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SMR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Sierra Leone"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SLE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Seychelles"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SYC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Kazakhstan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="KAZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Cayman Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="KY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="CYM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇰🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Singapore"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SGP"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Sweden"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SWE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Sudan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="SD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="SDN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇸🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Dominican Republic"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="DO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="DOM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇩🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Dominica"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="DM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="DMA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇩🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Djibouti"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="DJ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="DJI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇩🇯"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Denmark"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="DK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="DNK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇩🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="British Virgin Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VGB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Germany"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="DE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="DEU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇩🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Yemen"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="YE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="YEM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇾🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Algeria"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="DZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="DZA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇩🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="United States"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="US"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="USA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇺🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Uruguay"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="UY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="URY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇺🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mayotte"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="YT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MYT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇾🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="United States Minor Outlying Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="UM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="UMI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇺🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Lebanon"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LBN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇧"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Lucia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LCA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Laos"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LAO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Tuvalu"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TUV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇻"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Taiwan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TWN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Trinidad and Tobago"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TTO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Turkey"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TUR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Sri Lanka"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LK"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LKA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇰"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Liechtenstein"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LIE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Latvia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LV"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LVA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇻"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Tonga"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TON"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Lithuania"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LTU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Luxembourg"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LUX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Liberia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LBR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Lesotho"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LSO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Thailand"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TH"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="THA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇭"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="French Southern Territories"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ATF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Togo"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TGO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Chad"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TCD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Turks and Caicos Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="TC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="TCA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇹🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Libya"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="LY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="LBY"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇱🇾"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Vatican"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VAT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Saint Vincent and the Grenadines"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VC"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VCT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇨"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="United Arab Emirates"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ARE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Andorra"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AD"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AND"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Antigua and Barbuda"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ATG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇬"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Afghanistan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AF"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AFG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇫"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Anguilla"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AIA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="U.S. Virgin Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="VI"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="VIR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇻🇮"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Iceland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ISL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Iran"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IRN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Armenia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ARM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇲"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Albania"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ALB"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇱"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Angola"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AGO"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇴"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Antarctica"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AQ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ATA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇶"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="American Samoa"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ASM"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇸"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Argentina"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ARG"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇷"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Australia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AU"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AUS"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇺"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Austria"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AUT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇹"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Aruba"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ABW"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇼"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="India"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IND"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇳"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Aland Islands"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AX"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="ALA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇽"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Azerbaijan"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="AZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="AZE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇦🇿"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Ireland"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="IE"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IRL"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇪"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Indonesia"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="ID"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="IDN"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇮🇩"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Ukraine"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="UA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="UKR"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇺🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Qatar"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="QA"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="QAT"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇶🇦"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="name" value="Mozambique"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso2" value="MZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="iso3" value="MOZ"/>
+	</insert>
+	<insert dbms="postgresql, mssql, hsqldb" tableName="COUNTRY">
+		<column name="unicodeFlag" value="🇲🇿"/>
+	</insert>
+</changeSet>
